@@ -1,0 +1,18 @@
+TIB ENTREPRENAD – KOMPLETT WEBBPLATS
+
+1. Packa upp zip-filen.
+2. Ladda upp HELA innehållet till roten av ditt GitHub-repo.
+3. index.html, styles.css, app.js, assets och sidmapparna ska ligga bredvid varandra.
+4. Välj Settings > Pages > Deploy from a branch > main > / (root).
+5. Öppna GitHubs publicerade adress när bygget är klart.
+
+Ladda inte bara upp index.html. Då saknas bilder, utseende och undersidor.
+
+Kontaktformuläret öppnar besökarens mejlprogram med ett färdigt utkast.
+Besökaren måste själv skicka mejlet. Ingen server eller automatisk leverans ingår.
+Telefon: 070 557 37 75. E-post: tobias@tibab.se.
+
+Sidorna fungerar även lokalt genom att öppna index.html.
+Inför lansering på en egen domän bör canonical, Open Graph, strukturerade data,
+robots.txt och sitemap.xml ändras från visningslänken till den slutliga domänen.
+Bilderna är hämtade från företagets befintliga webbplats; befintliga bildlicenser gäller.

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tib-entreprenad-vasteras.carlzzon121.chatgpt.site/sitemap.xml
